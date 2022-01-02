@@ -1,4 +1,4 @@
-# Aplicações do XGBoost com Scikit-learn
+# Aplicações do `XGBoost` com _Scikit-learn_
 
 **Modelos de:**
 
