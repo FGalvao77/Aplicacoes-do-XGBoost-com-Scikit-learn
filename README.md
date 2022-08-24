@@ -3,8 +3,8 @@
 **Modelos de:**
 
 - Regressão
- - Binária
- - Multiclasses<br><br>
+  - Binária
+  - Multiclasses<br><br>
 - Classificação<br><br><br>
 
 **Estratégias como:**
