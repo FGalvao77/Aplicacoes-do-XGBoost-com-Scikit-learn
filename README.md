@@ -10,7 +10,7 @@
 **Estratégias como:**
 - Validação cruzada
 - Otimização dos hiperparâmetros
- - procura pelos melhores ajustes
+- Procura pelos melhores ajustes
 - Importância do recurso
 - Parada do modelo
 - Métodos de avaliação
